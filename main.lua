@@ -1,6 +1,6 @@
 function love.load()
     love.window.setMode(600, 820)
-    love.window.setTitle('Space Shooter')
+    love.window.setTitle('Space Shoot')
 
     WINDOW_WIDTH = love.graphics.getWidth()
     WINDOW_HEIGHT = love.graphics.getHeight()
